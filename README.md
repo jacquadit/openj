@@ -1,2 +1,0 @@
-# openj
-programmation javascript
